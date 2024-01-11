@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/libnodejs
+module github.com/initializ-buildpacks/libnodejs
 
 go 1.19
 

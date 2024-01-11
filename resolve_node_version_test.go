@@ -3,7 +3,7 @@ package libnodejs_test
 import (
 	"testing"
 
-	"github.com/paketo-buildpacks/libnodejs"
+	"github.com/initializ-buildpacks/libnodejs"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/draft"
 	"github.com/sclevine/spec"

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/paketo-buildpacks/libnodejs"
+	"github.com/initializ-buildpacks/libnodejs"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
